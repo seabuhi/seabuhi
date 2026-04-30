@@ -8,10 +8,9 @@
   <img alt="Java" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" height="40"/>
   <img alt="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" height="40"/>
   <img alt="Docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" height="40"/>
-  <img alt="ESP32" src="https://raw.githubusercontent.com/github/explore/main/topics/espressif/espressif.png" height="40"/>
 </p>
 
-🚀 **Full-Stack Developer** | Mobile • Backend • IoT  
+🚀 **Software Engineer** | Mobile • Web • Backend • Frontend • IoT  
 I build **real, production-ready systems** with a focus on **performance, security, and scalability**.  
 No demos, no simulations — **real devices, real servers, real users**.
 
@@ -75,20 +74,6 @@ No demos, no simulations — **real devices, real servers, real users**.
 
 ---
 
-### 📡 **Offline Messenger**
-**Internet-free messaging system**
-
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/espressif/espressif.png" height="24"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/lora/lora.png" height="24"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" height="24"/>
-
-- ESP32-C3 + LoRa (E220) communication
-- BLE ↔ LoRa gateway
-- Flutter chat application
-- Real device-to-device messaging (no internet required)
-
----
-
 ## 🏆 Achievements & Hackathons
 
 🥉 **3rd Place – Hackathon**  
@@ -112,8 +97,7 @@ No demos, no simulations — **real devices, real servers, real users**.
 
 ## 📫 Contact
 - GitHub: https://github.com/seabuhi
-- Portfolio: https://seabuhi.com
-- Email: seabuhikhazimzada@gmail.com
+- Email: seabuhikhazimzade@gmail.com
 - LinkedIn: https://www.linkedin.com/in/seabuhi-khazimzada-019402397/
 
 ---
